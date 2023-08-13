@@ -62,4 +62,8 @@ Follow these steps to set up Mass Mail Dispatcher locally:
 1.  Email.js: Used for sending emails programmatically.
 2.  PapaParse: Used for CSV parsing.
 
+## Website Link
+
+https://mass-mail-dispatcher-exposys.netlify.app/
+
 
