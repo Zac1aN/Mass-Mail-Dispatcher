@@ -49,3 +49,17 @@ Follow these steps to set up Mass Mail Dispatcher locally:
    ```bash
    npm start
 
+## Usage
+
+1.  Upload a CSV file containing recipient details.
+2.  Choose an existing email template or create a new one.
+3.  Personalize email content using placeholders.
+4.  Schedule email delivery or send immediately.
+5.  Access email analytics via the dashboard.
+
+## Acknowledgments
+
+1.  Email.js: Used for sending emails programmatically.
+2.  PapaParse: Used for CSV parsing.
+
+
